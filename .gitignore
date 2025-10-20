@@ -1,0 +1,11 @@
+# Ignore Rust build folders 
+target/ 
+# Ignore temp and backup files 
+*.log 
+*.tmp 
+*.bak 
+# Ignore IDE folders 
+.vscode/ 
+.idea/ 
+.DS_Store 
+Thumbs.db 
