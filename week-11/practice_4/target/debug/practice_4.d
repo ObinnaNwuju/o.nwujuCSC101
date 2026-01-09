@@ -1,0 +1,1 @@
+C:\Users\HP\Documents\o.nwujuCSC101\week-11\practice_4\target\debug\practice_4.exe: C:\Users\HP\Documents\o.nwujuCSC101\week-11\practice_4\src\main.rs
